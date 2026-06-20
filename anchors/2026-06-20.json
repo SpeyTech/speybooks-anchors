@@ -1,0 +1,112 @@
+{
+  "anchorHash": "c30bc1da5db64ad92cc79f2cbcae3a308cd25216c1bfe22de8d678ce9383ca9a",
+  "orgStates": [
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "20",
+      "organisationId": "1113b02c-efb7-4126-b749-e57339df9318"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "2211e07b-c4bf-4cfd-b0e8-47a8fd8bfba9"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "511b5b32-432b-47a4-8169-804d01bae98b"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "5db79d44-dc7a-417a-9c58-b6237f8f8424"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "6d1998cf-ea4d-417a-a06f-be45ffae0333"
+    },
+    {
+      "lastAuditId": "149",
+      "lastChainHash": "35e109e9051131a8eb7c3665868bd04eb1e86d156e96aa9a84404a67e6c661cf",
+      "ledgerHighWater": "308",
+      "organisationId": "878eb461-18ef-4f7e-a95b-624d5b176b1c"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "8e63eaec-e1b5-4ade-816e-7228fe6240cb"
+    },
+    {
+      "lastAuditId": "127",
+      "lastChainHash": "4bebdab36daa370db04085ed2159ab1455cfc0933012ed7f3a2c228e17e70e1d",
+      "ledgerHighWater": "203",
+      "organisationId": "a2f1adb1-d23e-4b5f-9cc8-1f11a2f77faa"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "a360d316-25dc-465f-8230-bfe026ba7a34"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "b18207ca-1ad4-4b00-a625-e87dcb4799b3"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "b408f12f-5cb0-4086-8288-228809be6dba"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "c1af4046-0edc-4524-8934-1fdfb5c44fc0"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "148",
+      "organisationId": "cf6bdc4b-542a-4e3d-90c9-86edd6737594"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "da23a70a-fbdf-4e3c-82c9-613e3fc3dece"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "e5828315-5eeb-4670-8b05-d141b60425fe"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "f4a24277-830f-4c33-bb62-80ba3264c6e9"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "fcd12a9e-b179-422f-aacb-92cc1ddf90e9"
+    }
+  ],
+  "organisationCount": 17,
+  "schemaVersion": "1",
+  "timestamp": "2026-06-20T01:00:02.306Z",
+  "totalAuditRecords": "276",
+  "totalLedgerHeight": "679"
+}
