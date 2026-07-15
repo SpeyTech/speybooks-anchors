@@ -1,0 +1,52 @@
+{
+  "anchorHash": "8cb33fdd665b6fd8b9e56524c16e09eaa3cdd9b2ccf4a2ecd272253acbfd6265",
+  "orgStates": [
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "20",
+      "organisationId": "1113b02c-efb7-4126-b749-e57339df9318"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "511b5b32-432b-47a4-8169-804d01bae98b"
+    },
+    {
+      "lastAuditId": "149",
+      "lastChainHash": "35e109e9051131a8eb7c3665868bd04eb1e86d156e96aa9a84404a67e6c661cf",
+      "ledgerHighWater": "308",
+      "organisationId": "878eb461-18ef-4f7e-a95b-624d5b176b1c"
+    },
+    {
+      "lastAuditId": "127",
+      "lastChainHash": "4bebdab36daa370db04085ed2159ab1455cfc0933012ed7f3a2c228e17e70e1d",
+      "ledgerHighWater": "203",
+      "organisationId": "a2f1adb1-d23e-4b5f-9cc8-1f11a2f77faa"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "b18207ca-1ad4-4b00-a625-e87dcb4799b3"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "0",
+      "organisationId": "c1af4046-0edc-4524-8934-1fdfb5c44fc0"
+    },
+    {
+      "lastAuditId": "0",
+      "lastChainHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "ledgerHighWater": "148",
+      "organisationId": "cf6bdc4b-542a-4e3d-90c9-86edd6737594"
+    }
+  ],
+  "organisationCount": 7,
+  "schemaVersion": "1",
+  "timestamp": "2026-07-15T01:00:02.556Z",
+  "totalAuditRecords": "276",
+  "totalLedgerHeight": "679"
+}
